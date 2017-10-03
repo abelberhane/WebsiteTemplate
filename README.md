@@ -11,3 +11,6 @@ have been linked to the HTML template. I have also set up an images folder and a
 
 --------- Update ---------------
 Recently added a Template for sites that utilize bootstrap/css/js/html as well. Its linked together and ready for development.
+
+--------- Update ---------------
+Added Generic CSS Resets and Screen reader sections for my Styles sheet.
